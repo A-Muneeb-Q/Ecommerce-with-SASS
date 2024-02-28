@@ -60,5 +60,5 @@ To run the website locally, follow these steps:
 To clone the repository, use the following command in your terminal:
 
 ```bash
-git clone https://github.com/A-Muneeb-Q/Web-Design-CSS-and-HTML-Ecommerce.git
+git clone https://github.com/A-Muneeb-Q/Ecommerce-with-SASS.git
 
